@@ -111,7 +111,7 @@ This module focuses purely on understanding how client-side storage works withou
 
 A front-end authentication simulation built to practice form validation and user management logic.
 
-⚠ This is a client-side authentication simulation (no real backend or database).
+¡This is a client-side authentication simulation (no real backend or database)!.
 
 ### Features
 
@@ -164,13 +164,6 @@ This repository demonstrates practical understanding of:
 
 ---
 
-# Author
-
-Iván David Caro Vargas  
-Aspiring Full Stack Developer  
-
----
-
 # Note
 
 This collection of projects demonstrates progressive learning:
@@ -180,3 +173,12 @@ This collection of projects demonstrates progressive learning:
 3. Consuming external APIs  
 
 It reflects practical front-end development skills and foundational knowledge for full-stack development.
+
+---
+
+# Author
+
+Iván David Caro Vargas  
+Aspiring Full Stack Developer  
+
+
