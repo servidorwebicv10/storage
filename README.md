@@ -47,7 +47,6 @@ A web application that allows users to check the current weather of any city in 
 - Display current temperature in Celsius  
 - Show weather description  
 - Display wind speed  
-- Dynamic weather icon  
 - Automatically saves last searched city  
 - Press **Enter** to trigger search  
 - Error handling for invalid cities  
@@ -56,7 +55,7 @@ A web application that allows users to check the current weather of any city in 
 
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript  
 - Fetch API  
 - LocalStorage  
 - OpenWeather API  
@@ -131,7 +130,6 @@ A front-end authentication simulation built to practice form validation and user
 ### Concepts Applied
 
 - Form validation
-- Input sanitization
 - Conditional logic
 - Authentication flow simulation
 - Basic session management
